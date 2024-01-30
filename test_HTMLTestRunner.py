@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# - - coding: utf-8 -*-
 
 import StringIO
 import sys
@@ -251,3 +251,4 @@ if __name__ == "__main__":
     # that may confuse people.
     #HTMLTestRunner.main(argv=argv)
 
+ 
